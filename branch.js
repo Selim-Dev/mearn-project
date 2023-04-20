@@ -1,3 +1,3 @@
-console.log(' from ahmed on branch feature 1')
+console.log(' hello mohamed from feature 2')
 hello
 adding a line for github repo
